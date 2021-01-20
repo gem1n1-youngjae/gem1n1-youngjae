@@ -2,7 +2,7 @@
 
 ## Front End Developer
 
-Hi, I'm Youngjae You, a server front end developer
+#### Hi, I'm Youngjae You, a server front end developer
 
 ## 🛠 My Working Language, Frameworks 🛠
   <li><b>C, C#, Java</b></li>
