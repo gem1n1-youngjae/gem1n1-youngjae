@@ -7,7 +7,7 @@
 ## 🛠 My Working Language, Frameworks 🛠
   <li><b>C, C#, Java</b></li>
   <li><b>HTML, CSS</b></li>
-  <li><b>JavaScript</b></li>
+  <li><b>JavaScript (ES6)</b></li>
   <li><b>React.js</b></li>
   <li><b>SASS</b></li>
   <br />
