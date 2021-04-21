@@ -3,6 +3,8 @@
 ## Front End Developer
 
 #### Hi, I'm Youngjae You, a front end developer
+> I like React and interested in design!
+> So I can use Adobe Photoshop, Adobe Illustrator, Adobe XD and Pigma.
 
 ## 🛠 My Working Language, Frameworks 🛠
   <li><b>C, C#, Java</b></li>
