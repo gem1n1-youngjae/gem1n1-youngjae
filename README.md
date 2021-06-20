@@ -7,7 +7,7 @@
 > **I like React and interested in design!** <br/>
 > **So I can use Adobe Photoshop, Adobe Illustrator, Adobe XD and Pigma.**
 
-#### 📖 The things I learned 📖
+### 📖 The things I learned 📖
 
 <div>  
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 </div>
 
-#### 🛠 My Working Languages, Frameworks and Tools🛠
+### 🛠 My Working Languages, Frameworks and Tools🛠
 
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
@@ -35,6 +35,8 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 </div>
+
+<br/>
 
 <a href="https://github.com/pdlma0904"></a>
 <img src="https://github-readme-stats.vercel.app/api?username=pdlma0904&show_icons=true"/>
