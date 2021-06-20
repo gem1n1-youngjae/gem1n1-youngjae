@@ -6,10 +6,10 @@
 > **I like React and interested in design!** <br>
 > **So I can use Adobe Photoshop, Adobe Illustrator, Adobe XD and Pigma.**
 
-## 🛠 My Working Language, Frameworks 🛠
+## ✏ The things I learned ✏
   <li><b>C, C#, Java</b></li>
   <li><b>HTML, CSS</b></li>
-  <li><b>JavaScript (ES6)</b></li>
+  <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></li>
   <li><b>React.js</b></li>
   <li><b>SASS</b></li>
   <br />
