@@ -1,4 +1,4 @@
-![youngjae](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20　 You 　 Youngjae 　%20%20&fontAlign=50&fontSize=50&textBg=true)
+![youngjae](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20%20You%20%20Youngjae%20%20%20&fontAlign=50&fontSize=50&textBg=true)
 
 ## Front End Developer
 
@@ -29,10 +29,10 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 </div>
 
 <a href="https://github.com/pdlma0904"></a>
