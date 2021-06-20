@@ -4,7 +4,7 @@
 
 #### Hi, I'm Youngjae You, a front end developer
 
-> **I like React and interested in design!**
+> **I like React and interested in design!** <br/>
 > **So I can use Adobe Photoshop, Adobe Illustrator, Adobe XD and Pigma.**
 
 #### 📖 The things I learned 📖
