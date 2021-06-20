@@ -7,7 +7,7 @@
 > **I like React and interested in design!** <br/>
 > **So I can use Adobe Photoshop, Adobe Illustrator, Adobe XD and Pigma.**
 
-### 📖 The things I learned 📖
+### 🏫 What I learned in school. 🏫
 
 <div>  
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
