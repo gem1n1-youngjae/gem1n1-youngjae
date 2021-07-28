@@ -38,10 +38,11 @@
 
 <br/>
 
-<a href="https://github.com/pdlma0904"></a>
-<img width="350" src="https://github-readme-stats.vercel.app/api?username=pdlma0904&show_icons=true"/>
-</a>
-
-<a href="https://github.com/pdlma0904">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdlma0904&layout=compact"/>
-</a>
+<div style="display:flex; justify-content: space-between; width: 100%;">
+				<a href="https://github.com/pdlma0904"></a>
+				<img  src="https://github-readme-stats.vercel.app/api?username=pdlma0904&show_icons=true"/>
+				</a>
+				<a href="https://github.com/pdlma0904">
+					<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdlma0904&layout=compact"/>
+				</a>
+</div>
