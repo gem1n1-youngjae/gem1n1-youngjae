@@ -38,7 +38,7 @@
 
 <br/>
 
-<div style="display:flex; justify-content: space-between; width: 100%;">
+<div style="display:flex; justify-content: space-between; width: 854px;">
   <a href="https://github.com/pdlma0904">
     <img height="175"  src="https://github-readme-stats.vercel.app/api?username=pdlma0904&show_icons=true"/>
   </a>
