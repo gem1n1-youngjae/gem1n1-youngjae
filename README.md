@@ -6,6 +6,7 @@
 
 > **I like React and interested in design!** <br/>
 > **So I can use Adobe Photoshop, Adobe Illustrator, Adobe XD and Pigma.**
+> **Mathpang developed fornt-end performance improvement, test code writing, and overall functions.**
 
 ### ✍ What I learned ✍ 
 
@@ -38,8 +39,8 @@
 
 <br/>
 
-### 🏢 Career 🏢
-##### MATHPANG ( 2021.09.13 ~ ing )
+### 🏢 My Career 🏢
+#### MATHPANG ( 2021.09.13 ~ ing )
 
 <hr/>
 
