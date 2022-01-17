@@ -5,8 +5,8 @@
 #### Hi, I'm Youngjae You, a front end developer
 
 > **I like React and interested in design!** <br/>
-> **So I can use Adobe Photoshop, Adobe Illustrator, Adobe XD and Pigma.**
-> **Mathpang developed fornt-end performance improvement, test code writing, and overall functions.**
+> **So I can use Adobe Photoshop, Adobe Illustrator, Adobe XD and Pigma.** <br/>
+> **Mathpang developed fornt-end performance improvement, test code writing, and overall functions.** <br/>
 
 ### ✍ What I learned ✍ 
 
