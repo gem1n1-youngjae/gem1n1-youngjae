@@ -8,20 +8,6 @@
 > **So I can use Adobe Photoshop, Adobe Illustrator, Adobe XD and Pigma.** <br/>
 > **Mathpang developed fornt-end performance improvement, test code writing, and overall functions.** <br/>
 
-### ✍ What I learned ✍ 
-
-<div>  
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-</div>
-<div>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-</div>
-
 ### 🛠 My Working Languages, Frameworks and Tools🛠
 
 <div>
@@ -30,7 +16,12 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 </div>
-
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+</div>
 <br/>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgem1n1-youngjae&count_bg=%235AF7F9&title_bg=%232D2222&icon=&icon_color=%23C2C2C2&title=hits&edge_flat=false"/></a>
