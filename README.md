@@ -25,12 +25,6 @@
 ### 🛠 My Working Languages, Frameworks and Tools🛠
 
 <div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-</div>
-<div>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
