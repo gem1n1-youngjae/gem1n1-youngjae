@@ -1,7 +1,7 @@
 ![youngjae](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20%20You%20%20Youngjae%20%20%20&fontAlign=50&fontSize=50&textBg=true)
 
 ### 🏢 My Career 🏢
-- MATHPANG ( 2021.09. ~ 2024.01. )
+- MATHPANG ( 2021.09. ~ 2024.01. ) <a href="https://github.com/Dev-Young-Jae">github</a>
 - WEMEETPLACE ( 2024.02 ~ ing )
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
