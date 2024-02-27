@@ -18,5 +18,3 @@
 </div>
 
 <br/>
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgem1n1-youngjae&count_bg=%235AF7F9&title_bg=%232D2222&icon=&icon_color=%23C2C2C2&title=hits&edge_flat=false"/></a>
