@@ -2,7 +2,7 @@
 
 ### 🏢 My Career 🏢
 - MATHPANG ( 2021.09. ~ 2024.01. ) <a href="https://github.com/Dev-Young-Jae">github</a>
-- WEMEETPLACE ( 2024.02 ~ ing )
+- Wemeet Mobility ( 2024.02 ~ ing )
 
 ### 💻 Stack 💻
 <div>
