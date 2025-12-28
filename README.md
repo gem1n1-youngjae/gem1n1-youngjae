@@ -31,9 +31,3 @@
 </div>
 
 <br/>
-<div style="display:flex; justify-content: space-between; width: 854px;">
-    <img height="175"  src="https://github-readme-stats.vercel.app/api?username=gem1n1-youngjae&show_icons=true"/>
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gem1n1-youngjae&layout=compact"/>
-</div>
-
-<br/>
